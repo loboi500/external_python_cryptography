@@ -1,4 +1,3 @@
-recursive-include cryptography_vectors *
-include LICENSE
-include LICENSE.APACHE
-include LICENSE.BSD
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae1f0ba20ee5603c8961b5fa971b0fe27ebe23758deb94ed825035e1570336da
+size 100

@@ -1,8 +1,3 @@
-click
-clint
-coverage
-requests
-tox >= 2.4.1
-twine >= 1.8.0
--e .[test,docs,docstest,pep8test]
--e vectors
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e802c3a534ab690178b246f66ac1f26e3cbaa250a129ebe1cec9b7280c25791
+size 103

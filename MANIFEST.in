@@ -1,15 +1,3 @@
-include AUTHORS.rst
-include CHANGELOG.rst
-include CONTRIBUTING.rst
-include LICENSE
-include LICENSE.APACHE
-include LICENSE.BSD
-include README.rst
-
-include pyproject.toml
-
-recursive-include docs *
-recursive-include src/_cffi_src *.py *.c *.h
-prune docs/_build
-recursive-include tests *.py
-recursive-exclude vectors *
+version https://git-lfs.github.com/spec/v1
+oid sha256:29257a5770687ac6fa0daa9417e4d2b980b9585a106d40bbf41321b901b87a4e
+size 315
